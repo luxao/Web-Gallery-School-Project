@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Gallery</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <script src="https://kit.fontawesome.com/44b171361e.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Aclonica" />
+<!--    <link href ="https://code.jquery.com/ui/1.10.4/themes/ui-lightness/jquery-ui.css" rel = "stylesheet">-->
+    <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+<!--    <script src ="https://code.jquery.com/jquery-1.10.2.js"></script>-->
+<!--    <script src ="https://code.jquery.com/ui/1.10.4/jquery-ui.js"></script>-->
+    <link rel="stylesheet" href="css/style.css">
+
+
+</head>
+<body>
+<header class="site-header  group">
+
+      <div class="site-title container">
+              <div class="row">
+
+                  <div class="col">
+                     <h1> <i class="fas fa-images"></i>  Gallery Rick & Morty</h1>
+                  </div>
+                  <div class="col">
+                      <ul class="menu social">
+                          <li><a href="#" class="social-icon"><i class="fa fa-github"></i></a></li>
+                          <li><a href="#" class="social-icon"><i class="fa fa-twitter"></i></a></li>
+                          <li><a href="#" class="social-icon"><i class="fa fa-facebook"></i></a></li>
+                          <li><a href="#" class="social-icon"><i class="fa fa-linkedin"></i></a></li>
+                      </ul>
+                  </div>
+              </div>
+      </div>
+</header>
+<main>
+    <article class="container group">
+        <div class="container searchInput">
+            <label for="myInput"><i class="fab fa-searchengin"></i></label>
+            <input type="text" id="myInput"  placeholder="Search for images by name..">
+        </div>
+        <div id="gallery-wrapper"></div>
+        <div id="fade">
+            <div class="fadeModal" id="fade-gallery">
+                <i class="fas fa-play-circle" id="play-btn"></i>
+                <i class="fas fa-stop-circle" id="stop-btn"></i>
+                <span id="title-img"></span>
+                <i class="far fa-times-circle" id="x-ko"></i>
+                <i class="fas fa-arrow-circle-right" id="right-arrow"></i>
+                <i class="fas fa-arrow-circle-left" id="left-arrow"></i>
+                <span id="description-img"></span>
+
+            </div>
+
+        </div>
+    </article>
+</main>
+
+<footer>
+        <p>
+            Copyright &copy; 2020 | Lukáš Lobl
+        </p>
+</footer>
+
+
+
+
+<script type="text/javascript" src="js/main.js"></script>
+
+
+</body>
+</html>

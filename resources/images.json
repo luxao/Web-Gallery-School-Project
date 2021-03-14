@@ -1,0 +1,48 @@
+{
+  "photos":
+  [
+    {
+      "id": "0",
+      "src": "thumb-1.jpg",
+      "title": "Morty Smith",
+      "description": "Hlavná postava zo serialu Rick & Morty. Je vnukom Ricka a často je nútený označovať svoje rôzne nešťastné udalosti. Morty navštevuje strednú školu Harryho Herpsona spolu so svojou sestrou Summer "
+    },
+    {
+      "id": "1",
+      "src": "thumb-2.jpg",
+      "title": "Pofiderná Dimenzia",
+      "description": "Rick a Morty často vystupujú v znamení multiverzálneho cestovania. Obe titulárne postavy každú sezónu navštevujú množstvo alternatívnych vesmírov."
+    },
+    {
+      "id": "2",
+      "src": "thumb-3.jpg",
+      "title": "Ufo Ricka Sanchéza",
+      "description": "Týmto ufom cestujú po celom vesmíre v rôznych dimenzíach a iných alternatívnych vesmíroch"
+    },
+    {
+      "id": "3",
+    "src": "thumb-4.jpg",
+    "title": "Rick Sanchez vľavo",
+    "description": "Richard „ Rick“ Sanchez , tiež známy ako Rick C-137 , je titulárnym hlavným protagonistom Ricka a Mortyho . On je geniálny vedec, ktorého alkoholizmus a nezodpovedné, nihilistický správanie sú zdrojom obáv o jeho dcéra , s rodinou , rovnako ako bezpečnosť ich syna, Morty . Hlas mu dáva Justin Roiland ."
+  },
+    {
+      "id": "4",
+      "src": "thumb-5.jpg",
+      "title": " Mr. Meeseeks ",
+      "description": "Meeseeks sú stvorenia, ktoré sú stvorené na to, aby slúžili na jedinečný účel, ktorý budú plniť v akejkoľvek miere. Keď splnia svoj účel, vyčerpajú sa a zmiznú vo vzduchu."
+    },
+    {
+      "id": "5",
+    "src": "thumb-6.jpg",
+    "title": "Summer Smith",
+    "description": "Summer Smith je trojčlenom Ricka a Mortyho. Staršia sestra Mortyho.  v súčasnosti pôsobí ako staršia sestra a vnučka Mortyho a Ricka z Dimension C-137"
+  },
+    {
+      "id": "6",
+      "src": "thumb-7.jpg",
+      "title": "Rick & Morty",
+      "description": "Hlavné postavy celého seriálu,ktoré cestujú v alternatívnom vesmíre. Kde jeho Dedo Rick je známy v celom vesmíre. Rick berie Mortyho na rôzne misie a dobrodružstvá."
+    }
+
+  ]
+}

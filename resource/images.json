@@ -1,0 +1,41 @@
+{
+  "photos":
+  [
+    {
+      "src": "library.JPG",
+      "id": 0,
+      "title": "Library",
+      "description": "Library in LX_Factory, Lisbon"
+    },
+    {
+      "src": "LX_Factory.JPG",
+      "id": 1,
+      "title": "LX Factory",
+      "description": "Entry to LX Factory"
+    },
+    {
+      "src": "miradouro.png",
+      "id": 2,
+      "title": "Miradouro",
+      "description": "Miradouro de Sao Pedro de Alcantara"
+    },
+    {
+      "src": "Most_Vasco_da_Gama.JPG",
+      "id": 3,
+      "title": "Bridge in Lisbon",
+      "description": "Bridge Vasco da Gama en Lisbon"
+    },
+    {
+      "src": "tiles_diamond.JPG",
+      "id": 4,
+      "title": "Tiles diamond shape",
+      "description": "Tiles in diamond shape in Museum"
+    },
+    {
+      "src": "tiles_rectangle.JPG",
+      "id": 5,
+      "title": "Tiles rectangle shape",
+      "description": "Tiles in rectangle shape in Museum"
+    }
+  ]
+}

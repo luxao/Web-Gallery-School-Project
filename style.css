@@ -1,0 +1,101 @@
+body {
+    margin: 0;
+    max-width: 100%;
+    padding: 0;
+}
+
+section {
+    margin-top: 5em;
+}
+
+footer{
+    max-width: 100%;
+    max-height: 100%;
+    text-align: center;
+    margin: 100px auto 0 auto;
+    color: white;
+}
+
+.searchFor {
+    text-align: center;
+    margin-bottom: 1.5em;
+}
+
+.thumbnail {
+    width: 12.5em;
+    cursor: grab;
+    height: 12.5em;
+    object-fit: cover;
+    border: 1px solid #ABABAB;
+    border-radius: 0.5em;
+    padding: 3px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,4);
+    margin: .85em;
+}
+
+#fade{
+    position: fixed;
+    display: none;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    z-index: 15;
+    background: rgba(0,0,0, 0.3);
+    align-items: center;
+    justify-content: center;
+}
+
+.fade-gallery{
+    padding: 5em;
+    z-index: 20;
+    position: fixed;
+    background: white;
+    box-shadow: 3px 3px 3px black;
+    border-radius: 3px;
+}
+
+#title, #description, #prev, #next, #play-show, #stop-show{
+    z-index: 20;
+    position: absolute;
+    color: #222326;
+    font-size: 1.5em;
+    font-family: "Times",cursive;
+}
+#title {
+    top: 6%;
+}
+
+#description {
+    bottom: 6%;
+    font-size: .9em;
+}
+
+.cancel-button{
+    top:1%;
+    right: 1%;
+}
+.cancel-button{
+    z-index: 20;
+    position: absolute;
+    font-size: 2em;
+}
+
+#prev{
+    top: 50%;
+    left: 1%;
+}
+#next{
+    top: 50%;
+    right: 1%;
+}
+
+#stop-show{
+    top: 1%;
+    right: 5%
+}
+
+#play-show{
+    top: 1%;
+    right: 8%
+}
